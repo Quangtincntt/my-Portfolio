@@ -30,13 +30,7 @@ const crypto = () => {
             I built this app to demonstrate knowledge working in React JS and
             accessing API endpoints.Users can add, edit and delete their
             products and issue invoices.My store can install other products but
-            still keep the product appearance. In 2020, Walmart's online sales
-            increased by 97%. Amazon's Q2 sales and profit growth was 40%. It's
-            not just the big guys either, benefiting from consumers' spiked
-            appetite for online shopping. Smaller retailers such as Howards
-            Storage World and B-Wear Sportswear, among others, are seeing double
-            and even triple-digit growth in ecommerce revenues compared to the
-            year before.
+            still keep the product appearance. 
           </p>
           <a
             href="https://github.com/fireclint/crypto-react-firebase"
