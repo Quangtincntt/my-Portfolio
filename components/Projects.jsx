@@ -1,10 +1,10 @@
 import React from 'react';
 import ProjectItem from './ProjectItem';
 // Image
-import propertyImg from '../public/assets/projects/nike-store.jpg';
-import cryptoImg from '../public/assets/projects/portfolio.jpg'
+import nikeStoreImg from '../public/assets/projects/nike-store.jpg';
+import portfolioImg from '../public/assets/projects/portfolio.jpg'
 import netflixImg from '../public/assets/projects/netflix.jpg'
-import twitchImg from '../public/assets/projects/twitch.jpg'
+import pokemonImg from '../public/assets/projects/pokemon.jpg'
 
 const Projects = () => {
   return (
@@ -17,13 +17,13 @@ const Projects = () => {
         <div className='grid md:grid-cols-2 gap-8'>
           <ProjectItem
             title='Nike Store'
-            backgroundImg={propertyImg}
+            backgroundImg={nikeStoreImg}
             projectUrl='/property'
             tech='React JS - Shopify'
           />
           <ProjectItem
             title='Portfolio'
-            backgroundImg={cryptoImg}
+            backgroundImg={portfolioImg}
             projectUrl='/crypto'
             tech='Next JS'
 
@@ -37,7 +37,7 @@ const Projects = () => {
           />
           <ProjectItem
             title='Pokemon Library'
-            backgroundImg={twitchImg}
+            backgroundImg={pokemonImg}
             projectUrl='/twitch'
             tech='TypeScript'
 
