@@ -17,6 +17,7 @@ const About = () => {
           <p className="py-2 text-gray-600">Sez: Male</p>
           <p className="py-2 text-gray-600">Address: Tân Phú district, HCMC</p>
           <p className="py-2 text-gray-600">Graduate: Software Technology</p>
+          <p className="py-2 text-gray-600">Email: tin.nguyenlequang@gmail.com</p>
           <Link href="/#projects">
             <p className="py-2 text-gray-600 underline cursor-pointer">
               Check out some of my latest projects.

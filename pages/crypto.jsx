@@ -26,21 +26,15 @@ const crypto = () => {
         <div className="col-span-4">
           <p>Project</p>
           <h2 className="my-4">Overview</h2>
-          <p className="my-4">
-            I built this app to demonstrate knowledge working in React JS and
-            accessing API endpoints.Users can add, edit and delete their
-            products and issue invoices.My store can install other products but
-            still keep the product appearance.
-          </p>
           <a
-            href="https://github.com/fireclint/crypto-react-firebase"
+            href="https://github.com/Quangtincntt/my-portfolio"
             target="_blank"
             rel="noreferrer"
           >
             <button className="px-8 py-2 mt-4 mr-8">Code</button>
           </a>
           <a
-            href="https://cryptobase-yt.web.app/"
+            href="https://quangtin-portfolio.vercel.app/"
             target="_blank"
             rel="noreferrer"
           >
