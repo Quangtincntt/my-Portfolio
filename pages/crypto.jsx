@@ -30,7 +30,7 @@ const crypto = () => {
             I built this app to demonstrate knowledge working in React JS and
             accessing API endpoints.Users can add, edit and delete their
             products and issue invoices.My store can install other products but
-            still keep the product appearance. 
+            still keep the product appearance.
           </p>
           <a
             href="https://github.com/fireclint/crypto-react-firebase"
