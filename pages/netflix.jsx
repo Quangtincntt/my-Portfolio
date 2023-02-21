@@ -1,6 +1,6 @@
 import Image from 'next/image';
 import React from 'react';
-import netflixImg from '../public/assets/projects/netflix.jpg';
+import tiktokImg from '../public/assets/projects/tiktok.jpg';
 import { RiRadioButtonFill } from 'react-icons/ri';
 import Link from 'next/link';
 
@@ -13,29 +13,28 @@ const netflix = () => {
           className='absolute z-1'
           layout='fill'
           objectFit='cover'
-          src={netflixImg}
+          src={tiktokImg}
           alt='/'
         />
         <div className='absolute top-[70%] max-w-[1240px] w-full left-[50%] right-[50%] translate-x-[-50%] translate-y-[-50%] text-white z-10 p-2'>
           <h2 className='py-2'>Netflix App</h2>
-          <h3>React JS / Tailwind / Firebase</h3>
+          <h3>React JS</h3>
         </div>
       </div>
-
       <div className='max-w-[1240px] mx-auto p-2 grid md:grid-cols-5 gap-8 py-8'>
         <div className='col-span-4'>
           <p>Project</p>
           <h2>Overview</h2>
          
           <a
-            href='https://github.com/fireclint/netflix-react-tailwind'
+            href='https://github.com/Quangtincntt/tiktok-ui'
             target='_blank'
             rel='noreferrer'
           >
             <button className='px-8 py-2 mt-4 mr-8'>Code</button>
           </a>
           <a
-            href='https://fireclint.github.io/netflix-react-tailwind/'
+            href='https://tiktok-ui-eosin.vercel.app/'
             target='_blank'
             rel='noreferrer'
           >

@@ -3,7 +3,7 @@ import ProjectItem from './ProjectItem';
 // Image
 import nikeStoreImg from '../public/assets/projects/nike-store.jpg';
 import portfolioImg from '../public/assets/projects/portfolio.jpg'
-import netflixImg from '../public/assets/projects/netflix.jpg'
+import tiktokImg from '../public/assets/projects/tiktok.jpg'
 import pokemonImg from '../public/assets/projects/pokemon.jpg'
 
 const Projects = () => {
@@ -30,7 +30,7 @@ const Projects = () => {
           />
           <ProjectItem
             title='TikTok UI'
-            backgroundImg={netflixImg}
+            backgroundImg={tiktokImg}
             projectUrl='/netflix'
             tech='React JS'
 
